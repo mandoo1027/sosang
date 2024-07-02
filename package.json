@@ -8,6 +8,7 @@
     "prd": "nuxt dev --dotenv .env.prd ",
     "generate": "nuxt generate .env.loc",
     "dev:generate": "nuxt generate --dotenv .env.dev ",
+    "stg:generate": "nuxt generate --dotenv .env.stg ",
     "prd:generate": "nuxt generate --dotenv .env.prd ",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
